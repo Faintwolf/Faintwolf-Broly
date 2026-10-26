@@ -42,16 +42,7 @@ Tap **F** to climb the lineup. Every form earns **mastery** as you use it, getti
 
 ![Legendary Super Saiyan 4 and Legendary Super Saiyan 5](https://raw.githubusercontent.com/Faintwolf/Faintwolf-Broly/main/readme/lssj4_lssj5.png)
 
-<details>
-<summary><b>New Form, Click for spoilers!</b></summary>
-<p><img src="https://raw.githubusercontent.com/Faintwolf/Faintwolf-Broly/main/readme/primal_both_skins.png" alt="Primal, both skins"></p>
-<p><b>Primal</b>: the next step after LSSJ 5. His hair burns with green fire, and every Ki attack he throws is engulfed in it. Raging makes the flames bigger and brighter. <i>(This form is not complete and is subject to change. Inspired by the Dragon Ball Fan Film, Legend!)</i></p>
-<table>
-<thead><tr><th>Form</th><th></th><th>Ultimate (V)</th></tr></thead>
-<tbody><tr><td><b>Primal</b></td><td><img src="https://raw.githubusercontent.com/Faintwolf/Faintwolf-Broly/main/readme/portrait_primal.png" alt="Primal portraits"></td><td><b>Gigantic Eruption</b>, burning with green fire.</td></tr></tbody>
-</table>
-<p><img src="https://raw.githubusercontent.com/Faintwolf/Faintwolf-Broly/main/readme/primal_burning.png" alt="Primal, burning"></p>
-</details>
+[![New Form, Click for spoilers!](https://raw.githubusercontent.com/Faintwolf/Faintwolf-Broly/main/readme/spoiler_button.png)](https://github.com/Faintwolf/Faintwolf-Broly/blob/main/NEW_FORM_SPOILERS.md)
 
 ![Rage](https://raw.githubusercontent.com/Faintwolf/Faintwolf-Broly/main/readme/bar_rage.png)
 
